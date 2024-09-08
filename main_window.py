@@ -53,7 +53,7 @@ result_line.addWidget(lbl_right, alignment=Qt.AlignCenter, stretch=3)
 result_group_box.setLayout(result_line)
 result_group_box.hide()
 
-btn_answer = QPushButton("відповісти")
+btn_answer = QPushButton("Відповісти")
 
 line1 = QHBoxLayout()
 line1.addWidget(btn_menu)
